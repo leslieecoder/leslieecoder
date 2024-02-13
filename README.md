@@ -1,5 +1,4 @@
-<img src="[https://i.imgur.com/536JNd9.jpg](https://www.canva.com/design/DAFdVmiNDpM/r5Pyhsh2Yyh1XGgPZMLW0g/watch?utm_content=DAFdVmiNDpM&utm_campaign=designshare&utm_medium=link&utm_source=editor)" width="100%">
-
+<img src="https://i.ibb.co/Gt1TgVP/gitCover.png" alt="gitCover" border="0" with="100%">
 <iframe src="https://giphy.com/embed/K3RbVLtvXa3yRVG7XT" width="480" height="192" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/K3RbVLtvXa3yRVG7XT">via GIPHY</a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leslieecoder&label=Profile%20views&color=0e75b6&style=flat" alt="leslieecoder" /> </p>
 
