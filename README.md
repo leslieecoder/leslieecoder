@@ -1,5 +1,8 @@
 <img src="https://i.ibb.co/Gt1TgVP/gitCover.png" alt="gitCover" border="0" with="100%">
-<iframe src="https://giphy.com/embed/K3RbVLtvXa3yRVG7XT" width="480" height="192" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/K3RbVLtvXa3yRVG7XT">via GIPHY</a></p>
+
+<div style="background-color: pink;">
+  <p>Hello! </p>
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leslieecoder&label=Profile%20views&color=0e75b6&style=flat" alt="leslieecoder" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leslieecoder" alt="leslieecoder" /></a> </p>
