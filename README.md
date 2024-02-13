@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm ✨Lesliee Cruz</h1>
-<h3 align="center">Coding cool stuff and making user interfaces look awesome!</h3>
+<img src="https://giphy.com/embed/K3RbVLtvXa3yRVG7XT" alt="Your GIF" width="300" height="200"/>
 
+<iframe src="https://giphy.com/embed/K3RbVLtvXa3yRVG7XT" width="480" height="192" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/K3RbVLtvXa3yRVG7XT">via GIPHY</a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leslieecoder&label=Profile%20views&color=0e75b6&style=flat" alt="leslieecoder" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leslieecoder" alt="leslieecoder" /></a> </p>
