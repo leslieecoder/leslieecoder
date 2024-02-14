@@ -24,4 +24,4 @@
 <a href="https://megacraftsman.com"><img src="images/3.gif" alt="7" border="0"></a>
 
 <h3 align="center">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/leslieecoder"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="leslieecoder" /></a></p><br><br>
+<p align="center><a href="https://www.buymeacoffee.com/leslieecoder"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="leslieecoder" /></a></p><br><br>
